@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d8909efc9f26a3d43aefbd2bcce8bb6b
+timeCreated: 1487342610
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baseboard1
+    100002: Baseboard2
+    100004: Baseboard3
+    100006: Baseboard4
+    100008: Baseboard5
+    100010: Cabinet1
+    100012: Cabinet1_Door
+    100014: Cabinet2
+    100016: Cabinet2_Door
+    100018: Cabinet3
+    100020: Cabinet3_Door
+    100022: Cabinet4
+    100024: Cabinet4_Door
+    100026: Cabinet5
+    100028: Cabinet5_Door
+    100030: //RootNode
+    100032: Countertop1
+    100034: Countertop2
+    100036: Countertop3
+    100038: Countertop4
+    100040: Countertop5
+    100042: Handle.002
+    100044: Handle.003
+    100046: Handle.004
+    100048: Handle.005
+    100050: Handle.006
+    400000: Baseboard1
+    400002: Baseboard2
+    400004: Baseboard3
+    400006: Baseboard4
+    400008: Baseboard5
+    400010: Cabinet1
+    400012: Cabinet1_Door
+    400014: Cabinet2
+    400016: Cabinet2_Door
+    400018: Cabinet3
+    400020: Cabinet3_Door
+    400022: Cabinet4
+    400024: Cabinet4_Door
+    400026: Cabinet5
+    400028: Cabinet5_Door
+    400030: //RootNode
+    400032: Countertop1
+    400034: Countertop2
+    400036: Countertop3
+    400038: Countertop4
+    400040: Countertop5
+    400042: Handle.002
+    400044: Handle.003
+    400046: Handle.004
+    400048: Handle.005
+    400050: Handle.006
+    2300000: Baseboard1
+    2300002: Baseboard2
+    2300004: Baseboard3
+    2300006: Baseboard4
+    2300008: Baseboard5
+    2300010: Cabinet1
+    2300012: Cabinet1_Door
+    2300014: Cabinet2
+    2300016: Cabinet2_Door
+    2300018: Cabinet3
+    2300020: Cabinet3_Door
+    2300022: Cabinet4
+    2300024: Cabinet4_Door
+    2300026: Cabinet5
+    2300028: Cabinet5_Door
+    2300030: Countertop1
+    2300032: Countertop2
+    2300034: Countertop3
+    2300036: Countertop4
+    2300038: Countertop5
+    2300040: Handle.002
+    2300042: Handle.003
+    2300044: Handle.004
+    2300046: Handle.005
+    2300048: Handle.006
+    3300000: Baseboard1
+    3300002: Baseboard2
+    3300004: Baseboard3
+    3300006: Baseboard4
+    3300008: Baseboard5
+    3300010: Cabinet1
+    3300012: Cabinet1_Door
+    3300014: Cabinet2
+    3300016: Cabinet2_Door
+    3300018: Cabinet3
+    3300020: Cabinet3_Door
+    3300022: Cabinet4
+    3300024: Cabinet4_Door
+    3300026: Cabinet5
+    3300028: Cabinet5_Door
+    3300030: Countertop1
+    3300032: Countertop2
+    3300034: Countertop3
+    3300036: Countertop4
+    3300038: Countertop5
+    3300040: Handle.002
+    3300042: Handle.003
+    3300044: Handle.004
+    3300046: Handle.005
+    3300048: Handle.006
+    4300000: Cabinet5
+    4300002: Baseboard5
+    4300004: Countertop5
+    4300006: Cabinet5_Door
+    4300008: Handle.006
+    4300010: Cabinet4
+    4300012: Baseboard4
+    4300014: Countertop4
+    4300016: Cabinet4_Door
+    4300018: Handle.005
+    4300020: Cabinet3
+    4300022: Baseboard3
+    4300024: Countertop3
+    4300026: Cabinet3_Door
+    4300028: Handle.004
+    4300030: Cabinet2
+    4300032: Baseboard2
+    4300034: Countertop2
+    4300036: Cabinet2_Door
+    4300038: Handle.003
+    4300040: Cabinet1
+    4300042: Baseboard1
+    4300044: Countertop1
+    4300046: Cabinet1_Door
+    4300048: Handle.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
